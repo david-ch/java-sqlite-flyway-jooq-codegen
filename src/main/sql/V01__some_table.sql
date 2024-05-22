@@ -1,0 +1,4 @@
+CREATE TABLE some_table (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    some_field VARCHAR
+);
